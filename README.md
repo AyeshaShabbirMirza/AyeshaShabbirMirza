@@ -19,11 +19,11 @@ I'm ready to collaborate with teams to tackle complex challenges and find creati
 - Machine Learning with Python
 ### University of California, Irvine - Coursera
 - Project Management: The Basics for Success
-### MATLAB Onramp
+### MATLAB Onramp - MATLAB
 - Completed 100% of the self-paced training course
-### Sinulink Onramp
+### Sinulink Onramp - MATLAB
 - Completed 100% of the self-paced training course
-### Control Design Onramp with Simulink
+### Control Design Onramp with Simulink - MATLAB
 - Completed 100% of the self-paced training course
 
 ## Contact
