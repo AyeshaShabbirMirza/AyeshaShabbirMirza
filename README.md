@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Ayesha Shabbir Mirza, a BE Electronic Engineering 6th semester student. Also, I'm currently enrolled in the Metaverse Web 3 program. 
+I'm Ayesha Shabbir Mirza, a BEE Electronic Engineering 6th semester student. Also, I'm currently enrolled in the Metaverse Web 3 program. 
 I enjoy working on projects that involve hardware-software integration and have experience in designing and implementing electronic circuits. 
 Always eager to learn Whether it's designing circuits, coding, or learning about emerging technologies and constantly seeking opportunities to expand my skills and knowledge. 
 I'm ready to collaborate with teams to tackle complex challenges and find creative solutions. 
