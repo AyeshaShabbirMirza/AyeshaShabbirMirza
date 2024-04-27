@@ -28,6 +28,6 @@ I'm ready to collaborate with teams to tackle complex challenges and find creati
 - Completed 100% of the self-paced training course
 
 ## Contact
-Email: ayeshashabbirmirza777@gmail.com
-LinkedIn: 
-GitHub: AyeshaShabbirMirza (https://github.com/AyeshaShabbirMirza)
+- Email: ayeshashabbirmirza777@gmail.com
+- LinkedIn: Ayesha Shabbir Mirza (www.linkedin.com/in/ayeshashabbirmirza)
+- GitHub: AyeshaShabbirMirza (https://github.com/AyeshaShabbirMirza)
