@@ -6,7 +6,7 @@ I'm ready to collaborate with teams to tackle complex challenges and find creati
 
 ## Skills
 - MATLAB
-- Multisim
+- NI Multisim
 - Proteus
 - PCB Layout
 - C
@@ -18,6 +18,7 @@ I'm ready to collaborate with teams to tackle complex challenges and find creati
 - Digital Circuit Design
 - Electronic Circuit Design
 - Simulink
+- Microsoft Office
 
 ## Courses
 ### Vanderbilt University - Coursera
