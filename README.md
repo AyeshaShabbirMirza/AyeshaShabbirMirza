@@ -11,6 +11,13 @@ I'm ready to collaborate with teams to tackle complex challenges and find creati
 - PCB Layout
 - C
 - C++
+- Embedded C
+- AutoCad
+- Arduino IDE
+- Microcontrollers
+- Digital Circuit Design
+- Electronic Circuit Design
+- Simulink
 
 ## Courses
 ### Vanderbilt University - Coursera
