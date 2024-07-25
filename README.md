@@ -36,5 +36,4 @@ I'm ready to collaborate with teams to tackle complex challenges and find creati
 
 ## Contact
 - Email: ayeshashabbirmirza777@gmail.com
-- LinkedIn: www.linkedin.com/in/ayeshashabbirmirza
 - GitHub: https://github.com/AyeshaShabbirMirza
